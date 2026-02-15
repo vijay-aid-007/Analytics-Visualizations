@@ -1,4 +1,4 @@
-# Netflix OTT Media Analytics Dashboard
+# OTT Media Content Performance & Trend Analysis Dashboard
 
 ## 📌 Project Overview
 
